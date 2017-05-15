@@ -1,0 +1,14 @@
+dockedships:
+    type:     rest
+    resource: Application\Gullkysten\FishiriBundle\Controller\DockedShipsController
+    prefix:   /api/v1/
+
+feltdata:
+    type:     rest
+    resource: Application\Gullkysten\FishiriBundle\Controller\FeltDataController
+    prefix:   /api/v1/
+
+riggdata:
+    type:     rest
+    resource: Application\Gullkysten\FishiriBundle\Controller\RiggDataController
+    prefix:   /api/v1/

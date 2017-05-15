@@ -1,0 +1,39 @@
+# This file is a "template" of what your parameters.yml file should look like
+# Set parameters here that may be different on each deployment target of the app, e.g. development, staging, production.
+# http://symfony.com/doc/current/best_practices/configuration.html#infrastructure-related-configuration
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     127.0.0.1
+    database_port:     ~
+    database_name:     ~
+    database_user:     ~
+    database_password: ~
+    # You should uncomment this if you want use pdo_sqlite
+    # database_path: "%kernel.root_dir%/data.db3"
+
+    mailer_transport:  smtp
+    mailer_host:       127.0.0.1
+    mailer_user:       ~
+    mailer_password:   ~
+
+    mongo.host: '%database.host%'
+    mongo.port: '%database.port%'
+    mongo.db: '%database.name%'
+    mongo_database_server: "mongodb://%mongo.host%:%mongo.port%"
+    mongo_database_name: %database.name%
+    mongo_credentials:
+            username: '%database.user%'
+            password: '%database.password%'
+            db: '%mongo.db%'
+
+    # A secret key that's used to generate certain security-related tokens
+    secret:            '%token.secret%'
+    assets_dir: '%kernel.root_dir%/../web'
+
+    fishiri.email.from:  '%ses.from%'
+    fishiri.amazonses.host:  '%ses.host%'
+    fishiri.amazonses.port:  '%ses.port%'
+    fishiri.amazonses.username:  '%ses.username%'
+    fishiri.amazonses.password:  '%ses.password%'
+    fishiri.cache_invalidation_auth_key: '%fishiri.cache.invalidation.auth.key%'
+    api_list_items_per_page: 12

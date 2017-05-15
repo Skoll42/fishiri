@@ -1,0 +1,85 @@
+# Doctrine Configuration
+doctrine:
+    dbal:
+        driver:   "%database_driver%"
+        host:     "%database_host%"
+        port:     "%database_port%"
+        dbname:   "%database_name%"
+        user:     "%database_user%"
+        password: "%database_password%"
+        charset:  UTF8
+        types:
+            json: Sonata\Doctrine\Types\JsonType
+        # if using pdo_sqlite as your database driver:
+        #   1. add the path in parameters.yml
+        #     e.g. database_path: "%kernel.root_dir%/data/data.db3"
+        #   2. Uncomment database_path in parameters.yml.dist
+        #   3. Uncomment next line:
+        #     path:     "%database_path%"
+
+    orm:
+        auto_generate_proxy_classes: "%kernel.debug%"
+        auto_mapping: true
+
+doctrine_mongodb:
+    connections:
+        default:
+            server: "%mongo_database_server%"
+            options: "%mongo_credentials%"
+
+    default_database: "%mongo.db%"
+    default_document_manager: default
+    document_managers:
+        default:
+            auto_mapping: true
+            mappings:
+                SonataMediaBundle:
+                    prefix: Sonata\MediaBundle\Document
+                ApplicationSonataUserBundle: ~
+                SonataUserBundle: ~
+                FOSUserBundle: ~
+                gedmo_loggable:
+                    type: annotation
+                    prefix: Gedmo\Loggable\Document
+                    dir: "%kernel.root_dir%/../vendor/gedmo/doctrine-extensions/lib/Gedmo/Loggable/Document"
+                    alias: GedmoLoggable # (optional) it will default to the name set for the mappingmapping
+                    is_bundle: false
+            filters:
+                softdeleteable:
+                    class: Gedmo\SoftDeleteable\Filter\ODM\SoftDeleteableFilter
+                    enabled: true
+services:
+    gedmo.listener.softdeleteable:
+        class: Gedmo\SoftDeleteable\SoftDeleteableListener
+        tags:
+            - { name: doctrine_mongodb.odm.event_listener, event: onFlush, priority: 10 }
+        calls:
+            - [ setAnnotationReader, [ @annotation_reader ] ]
+
+    gedmo.listener.reference_integrity:
+        class: Gedmo\ReferenceIntegrity\ReferenceIntegrityListener
+        tags:
+            - { name: doctrine_mongodb.odm.event_listener, event: preRemove, priority: 10 }
+        calls:
+            - [ setAnnotationReader, [ @annotation_reader ] ]
+
+    gedmo.listener.loggable:
+        class: Gedmo\Loggable\LoggableListener
+        tags:
+            - { name: doctrine_mongodb.odm.event_listener, event: postPersist, priority: 10 }
+            - { name: doctrine_mongodb.odm.event_listener, event: onFlush, priority: 10 }
+        calls:
+            - [ setAnnotationReader, [ @annotation_reader ] ]
+
+    gedmo.listener.timestampable:
+        class: Gedmo\Timestampable\TimestampableListener
+        tags:
+            - { name: doctrine_mongodb.odm.event_listener, event: onFlush, priority: 10 }
+        calls:
+            - [ setAnnotationReader, [ @annotation_reader ] ]
+
+stof_doctrine_extensions:
+    mongodb:
+        default:
+            timestampable: ~
+            loggable: ~

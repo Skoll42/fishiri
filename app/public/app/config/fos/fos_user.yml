@@ -1,0 +1,11 @@
+fos_user:
+    db_driver: mongodb
+    firewall_name: profile
+    user_class: Application\Sonata\UserBundle\Document\User
+    group:
+        group_class: Application\Sonata\UserBundle\Document\Group
+    service:
+        user_manager: sonata.user.mongodb.user_manager
+    registration:
+        confirmation:
+            enabled:    true

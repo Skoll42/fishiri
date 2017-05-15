@@ -1,0 +1,40 @@
+root:
+    path: /
+    defaults:
+        _controller: FrameworkBundle:Redirect:Redirect
+        route: sonata_admin_dashboard
+        permanent: true
+
+admin:
+    resource: '@SonataAdminBundle/Resources/config/routing/sonata_admin.xml'
+    prefix: /admin
+
+_sonata_admin:
+    resource: .
+    type: sonata_admin
+    prefix: /admin
+
+ApplicationGullkystenFishiriBundle:
+    resource: "@ApplicationGullkystenFishiriBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ApplicationSonataUserBundle:
+    resource: "@ApplicationSonataUserBundle/Resources/config/routing.yml"
+
+NelmioApiDocBundle:
+    resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
+    prefix:   /api/doc
+
+fos_oauth_server_token:
+    resource: "@FOSOAuthServerBundle/Resources/config/routing/token.xml"
+
+fos_oauth_server_authorize:
+    resource: "@FOSOAuthServerBundle/Resources/config/routing/authorize.xml"
+
+gallery:
+    resource: '@SonataMediaBundle/Resources/config/routing/gallery.xml'
+    prefix: /media/gallery
+
+media:
+    resource: '@SonataMediaBundle/Resources/config/routing/media.xml'
+    prefix: /media

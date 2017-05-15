@@ -1,0 +1,7 @@
+services:
+    fishiri.listener.media:
+        class: Application\Sonata\MediaBundle\EventListener\MediaListener
+        tags:
+          - { name: doctrine_mongodb.odm.event_listener, event: postPersist }
+          - { name: doctrine_mongodb.odm.event_listener, event: postUpdate }
+        arguments: [ @sonata.media.provider.image ]

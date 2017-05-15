@@ -1,0 +1,16 @@
+services:
+    fishiri_oauth.listener.acaoheader:
+        class: Application\FOS\OAuthServerBundle\EventListener\ACAOHeaderListener
+        tags:
+            - { name: kernel.event_listener, event: kernel.response, method: onKernelResponse }
+
+    sonata.admin.client:
+        class: Application\FOS\OAuthServerBundle\Admin\ClientAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.system.data, label: "API clients" }
+        arguments:
+            - ~
+            - Application\FOS\OAuthServerBundle\Document\Client
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]

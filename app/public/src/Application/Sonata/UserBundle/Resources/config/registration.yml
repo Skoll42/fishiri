@@ -1,0 +1,39 @@
+fos_user_registration_register:
+    path: /
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:register
+
+fos_user_registration_check_email:
+    path: /check-email
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:checkEmail
+
+fos_user_registration_confirm:
+    path: /confirm/{token}
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:confirm
+
+fos_user_registration_confirmed:
+    path: /confirmed
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:confirmed
+
+sonata_user_registration_register:
+    path: /
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:register
+
+sonata_user_registration_check_email:
+    path: /check-email
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:checkEmail
+
+sonata_user_registration_confirm:
+    path: /confirm/{token}
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:confirm
+
+sonata_user_registration_confirmed:
+    path: /confirmed
+    defaults:
+        _controller: SonataUserBundle:RegistrationFOSUser1:confirmed

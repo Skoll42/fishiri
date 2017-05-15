@@ -1,0 +1,9 @@
+[submodule "project/terraform/modules"]
+	path = project/terraform/modules
+	url = git@github.com:Sysla/terraform-modules.git
+[submodule "varnish"]
+	path = varnish
+	url = git@github.com:Sysla/wp-varnish.git
+[submodule "ops"]
+	path = ops
+	url = git@github.com:Sysla/wp-ops.git

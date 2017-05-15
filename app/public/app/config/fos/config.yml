@@ -1,0 +1,5 @@
+imports:
+    - { resource: fos_user.yml }
+    - { resource: fos_oauth.yml }
+    - { resource: fos_rest.yml }
+    - { resource: fos_http_cache.yml }

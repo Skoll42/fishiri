@@ -1,0 +1,8 @@
+fos_oauth_server:
+    db_driver: mongodb
+    client_class:        Application\FOS\OAuthServerBundle\Document\Client
+    access_token_class:  Application\FOS\OAuthServerBundle\Document\AccessToken
+    refresh_token_class: Application\FOS\OAuthServerBundle\Document\RefreshToken
+    auth_code_class:     Application\FOS\OAuthServerBundle\Document\AuthCode
+    service:
+        user_provider: fos_user.user_provider.username_email

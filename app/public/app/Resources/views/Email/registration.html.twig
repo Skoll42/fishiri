@@ -1,0 +1,18 @@
+<h2>Welcome {{ username }}</h2>
+
+<p>
+    You\'ve just registered to <strong>Fishiri</strong>. Use following link to confirm your registration: <br>
+    <a href="{{ activationLink }}">{{ activationLink }}</a>
+</p>
+
+{% if defaultPassword is not empty %}
+    <p>
+        The default generated password to your account is: {{ defaultPassword }}
+    </p>
+{% endif %}
+
+{{ confirmationText | md2html }}
+<p>
+    Regards,
+    Fishiri staff
+</p>

@@ -1,0 +1,41 @@
+sonata_media:
+    # if you don't use default namespace configuration
+    class:
+        media: Application\Sonata\MediaBundle\Document\Media
+        gallery: Application\Sonata\MediaBundle\Document\Gallery
+        gallery_item: Application\Sonata\MediaBundle\Document\GalleryItem
+    force_disable_category: true
+    default_context: default
+    db_driver: doctrine_mongodb # or doctrine_mongodb, doctrine_phpcr
+    contexts:
+        default:  # the default context is mandatory
+            providers:
+                - sonata.media.provider.image
+            formats:
+                default: {quality: 100, width: 1920, height: 1080}
+            download:
+                strategy: sonata.media.security.public_strategy
+    cdn:
+        server:
+            path: http://%aws.bucket.name%
+    providers:
+        image:
+            filesystem: sonata.media.filesystem.s3
+            cdn: sonata.media.cdn.server
+            generator: sonata.media.generator.default
+            thumbnail: sonata.media.thumbnail.format
+            allowed_extensions: ['jpg', 'png', 'jpeg', 'gif']
+            allowed_mime_types: ['image/pjpeg', 'image/jpeg', 'image/png', 'image/x-png', 'image/gif']
+
+    filesystem:
+        local:
+            directory:  %kernel.root_dir%/../web/uploads/media
+            create:     false
+        s3:
+            bucket: '%aws.bucket.name%'
+            accessKey: '%aws.key%'
+            secretKey: '%aws.secret%'
+            region: 'eu-west-1'
+            create: true
+            version: latest
+            sdk_version: 3

@@ -1,0 +1,11 @@
+services:
+    sonata_user.admin.user:
+        class: Application\Sonata\UserBundle\Admin\UserAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.system.data, label: "Users" }
+        arguments:
+            - ~
+            - Application\Sonata\UserBundle\Document\User
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]

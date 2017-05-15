@@ -1,0 +1,41 @@
+sonata_user_resetting:
+    resource: "@SonataUserBundle/Resources/config/routing/sonata_resetting_1.xml"
+    prefix: /resetting
+
+sonata_user_register:
+    resource: "@ApplicationSonataUserBundle/Resources/config/registration.yml"
+    prefix: /register
+
+sonata_user:
+    resource: '@SonataUserBundle/Resources/config/routing/admin_security.xml'
+    prefix: /admin
+
+fos_user_security_login:
+    path: /admin/login
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:login
+
+fos_user_security_check:
+    path: /admin/login_check
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:check
+
+fos_user_security_logout:
+    path: /admin/logout
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:logout
+
+sonata_user_security_login:
+    path: /admin/login
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:login
+
+sonata_user_security_check:
+    path: /admin/login_check
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:check
+
+sonata_user_security_logout:
+    path: /admin/logout
+    defaults:
+        controller: SonataUserBundle:AdminSecurity:logout

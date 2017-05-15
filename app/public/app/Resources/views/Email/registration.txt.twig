@@ -1,0 +1,11 @@
+Welcome {{ username }},
+
+You\'ve just registered to Fishiri. Copy and paste in browser following link to confirm you registration:
+{{ activationLink }}
+
+{% if defaultPassword is not empty %}
+    The default generated password to your account is: {{ defaultPassword }}
+{% endif %}
+{{ confirmationText | md2html }}
+Regards,
+Fishiri staff

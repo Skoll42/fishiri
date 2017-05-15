@@ -1,0 +1,20 @@
+sonata_user:
+    #security_acl: true # Uncomment for ACL support
+    manager_type: mongodb # can be orm or mongodb
+    class:
+        user: Application\Sonata\UserBundle\Document\User
+    profile:
+        # As in SonataAdminBundle's dashboard
+        dashboard:
+            blocks:
+        # Customize user portal menu by setting links
+        menu:
+            - { route: 'sonata_user_profile_show', label: 'sonata_profile_title', domain: 'SonataUserBundle'}
+            - { route: 'sonata_user_profile_edit', label: 'link_edit_profile', domain: 'SonataUserBundle'}
+            - { route: 'sonata_user_profile_edit_authentication', label: 'link_edit_authentication', domain: 'SonataUserBundle'}
+        register:
+            confirm:
+                redirect:
+                    # Set it to false to disable redirection
+                    route: 'root'
+                    route_parameters: ~

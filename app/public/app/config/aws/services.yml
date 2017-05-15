@@ -1,0 +1,12 @@
+aws:
+    version: latest
+    region: eu-west-1
+    credentials:
+        key: %aws.key%
+        secret: %aws.secret%
+    S3:
+        version: latest
+        region: eu-west-1
+
+parameters:
+    aws.base.url: '%aws.base.image.url%'

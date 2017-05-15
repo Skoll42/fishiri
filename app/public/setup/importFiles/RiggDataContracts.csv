@@ -1,0 +1,512 @@
+Rigid,Rigname,Type,Operatorcompany,From year,From month,From day,To year,To month,To day,Dayrate,Kommentarer,LastEditedOn,CreatedOn
+1,Eirik Raude,Kontrakt,Anadarko,2012,1,,2012,5,,"$535,000",,6/17/2012 10:37:15,6/8/2012 8:55:53
+1,Eirik Raude,Kontrakt,Ophir,2012,6,,2012,8,,"$648,000",,6/17/2012 10:40:02,6/8/2012 8:55:53
+1,Eirik Raude,Avvik,Yard,2012,9,,2012,9,,$0,10 year SPS,9/11/2012 23:46:33,6/8/2012 8:55:53
+1,Eirik Raude,Kontrakt,Africa Petroleum,2012,10,,2013,1,,"$625,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+1,Eirik Raude,Kontrakt,ExxonMobil,2013,2,,2013,9,,"$545,000",,6/18/2013 0:48:50,9/11/2012 23:42:13
+1,Eirik Raude,Kontrakt,Lukoil,2013,10,,2014,11,,"$575,000",,8/11/2014 23:57:38,3/7/2013 1:41:54
+1,Eirik Raude,Kontrakt,Premier Oil,2015,1,,2016,1,,"$630,000",,2/27/2015 1:36:54,8/11/2014 23:54:04
+1,Eirik Raude,Avvik,Stacked,2016,2,,2020,1,,$0,,7/28/2015 2:33:46,2/27/2015 1:36:33
+2,Energy Endevaour,Kontrakt,Maersk Oil,2011,4,,2013,5,,"$100,000",,2/19/2013 23:53:57,6/8/2012 8:55:53
+2,Energy Endevaour,Kontrakt,ADTI,2013,6,,2013,7,,"$155,000",,2/19/2013 23:52:46,2/19/2013 23:51:23
+2,Energy Endevaour,Kontrakt,Wintershall,2013,10,,2014,11,,"$160,000",,3/7/2014 1:54:08,12/13/2013 3:12:01
+2,Energy Endevaour,Avvik,IDLE,2015,1,,2020,1,,$0,Contract terminated,9/14/2015 2:42:57,8/13/2014 23:35:16
+3,Ensco 70,Kontrakt,RWE Dea,2013,1,,2013,8,,"$80,000",Plus five 1-well unpriced options,6/20/2013 4:39:32,6/8/2012 8:55:53
+3,Ensco 70,Avvik,Yard,2013,9,,2014,3,,$0,,12/10/2013 4:48:05,1/8/2013 1:34:22
+3,Ensco 70,Kontrakt,RWE Dea,2014,4,,2014,10,,"$140,000",,3/7/2014 1:29:10,6/20/2013 4:48:13
+3,Ensco 70,Kontrakt,Maersk Oil,2014,11,,2015,2,,"$160,000",,3/18/2015 1:17:13,12/10/2013 4:49:05
+3,Ensco 70,Avvik,Cold stacked,2015,2,,2020,1,,$0,Contract terminated,8/4/2015 2:05:50,3/18/2015 1:16:40
+4,Ensco 71,Kontrakt,Maersk Oil,2012,1,,2015,5,,"$170,000",Plus two 1-year options,1/15/2015 3:18:23,6/8/2012 8:55:53
+4,Ensco 71,Avvik,Yard,2015,6,,2015,6,,,Plannend inspection,3/18/2015 1:18:53,3/18/2015 1:18:28
+4,Ensco 71,Kontrakt,Maersk Oil,2015,7,,2018,6,,"$225,000",,7/21/2015 4:51:39,7/21/2015 4:50:35
+5,GSF Monarch,Kontrakt,Maersk Oil,2011,7,,2013,6,,"$94,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+5,GSF Monarch,Kontrakt,GDF Suez,2013,9,,2015,4,,"$160,000",,4/24/2015 1:57:54,4/19/2013 3:45:02
+5,GSF Monarch,Avvik,Stacked,2015,6,,2020,1,,$0,,8/31/2015 5:49:32,7/21/2015 5:11:38
+6,Maersk Resolve,Kontrakt,DONG,2012,3,,2012,5,,Private,Day rate is private,6/12/2012 2:29:49,6/8/2012 8:55:53
+6,Maersk Resolve,Kontrakt,ConocoPhillips,2012,6,,2012,12,,Private,Day rate is private,1/8/2013 4:39:08,6/8/2012 8:55:53
+6,Maersk Resolve,Kontrakt,EON Ruhrgas,2013,1,,2013,7,,Private,Day rate is private,6/21/2013 2:36:16,6/8/2012 8:55:53
+6,Maersk Resolve,Kontrakt,DONG,2013,8,,2014,4,,Private,,3/7/2014 1:42:58,6/8/2012 8:55:53
+6,Maersk Resolve,Avvik,Yard,2014,5,,2014,5,,$0,,6/21/2013 2:38:25,6/21/2013 2:37:01
+6,Maersk Resolve,Kontrakt,DONG,2014,6,,2016,9,,Private,Day rate is private,8/12/2014 0:39:47,6/8/2012 8:55:53
+6,Maersk Resolve,Avvik,Stacked,2016,10,,2020,1,,$0,,,
+7,Paragon C20052,Kontrakt,Chevron,2011,6,,2012,5,,"$89,000",,7/21/2015 5:51:59,6/8/2012 8:55:53
+7,Paragon C20052,Avvik,Yard,2012,6,,2012,6,,$0,,7/21/2015 5:52:25,6/8/2012 8:55:53
+7,Paragon C20052,Kontrakt,Centrica,2012,7,,2012,9,,"$91,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+7,Paragon C20052,Kontrakt,Centrica,2012,10,,2013,1,,"$122,000",,11/2/2012 1:36:19,6/8/2012 8:55:53
+7,Paragon C20052,Avvik,Yard,2013,3,,2013,5,,$0,,6/21/2013 3:56:39,11/2/2012 1:36:23
+7,Paragon C20052,Kontrakt,Centrica,2013,6,,2014,4,,"$122,000",,6/21/2013 3:56:44,11/2/2012 1:36:58
+7,Paragon C20052,Kontrakt,Dana Petroleum,2014,5,,2015,1,,"$180,000",,8/12/2014 2:43:01,3/7/2014 1:45:11
+7,Paragon C20052,Kontrakt,Dana Petroleum,2015,2,,2015,2,,"$160,000",,2/20/2015 4:11:16,2/20/2015 4:07:32
+7,Paragon C20052,Kontrakt,Petrogas,2015,9,,2015,11,,"$170,000",,3/4/2015 5:59:15,2/20/2015 4:11:26
+7,Paragon C20052,Avvik,IDLE,2015,3,,2015,6,,$0,,3/18/2015 4:05:05,3/4/2015 5:58:04
+7,Paragon C20052,Kontrakt,Tulip Oil,2015,7,,2015,8,,"$145,000",,3/18/2015 4:05:13,3/18/2015 4:03:46
+7,Paragon C20052,Kontrakt,Petrogas,2015,10,,2016,1,,"$170,000",,,
+7,Paragon C20052,Kontrakt,Petrogas,2016,2,,2016,2,,"$145,000",,,
+7,Paragon C20052,Avvik,IDLE,2016,3,,2020,1,,$0,,,
+8,Ocean Guardian,Avvik,Yard,2012,3,15,2012,7 ,10,$0,,6/8/2012 8:55:53,6/8/2012 8:55:53
+8,Ocean Guardian,Kontrakt,Shell,2012,6,,2014,6,10,"$263,000",Plus 1-year option,3/7/2014 0:54:22,6/8/2012 8:55:53
+8,Ocean Guardian,Kontrakt,Shell,2014,7,,2015,8,,"$350,000",,8/31/2015 5:40:18,3/7/2013 0:47:59
+8,Ocean Guardian,Avvik,IDLE,2015,9,,2016,4,,$0,,8/31/2015 5:40:40,8/31/2015 5:40:22
+8,Ocean Guardian,Kontrakt,Dana Petroleum,2016,5,,2017,4,,"$220,000",,,
+9,Maersk Resolute,Kontrakt,Total,2012,2,,2012,9,,Private,Day rate is private,6/12/2012 2:29:44,6/8/2012 8:55:53
+9,Maersk Resolute,Avvik,Yard,2012,9,,2012,10,,$0,Upgrade,6/21/2013 2:37:28,6/8/2012 8:55:53
+9,Maersk Resolute,Kontrakt,Hess,2012,11,,2016,4,,Private,Day rate is private,7/21/2015 5:47:40,6/8/2012 8:55:53
+9,Maersk Resolute,Avvik,Stacked,2016,5,,2017,6,,$0,,,
+9,Maersk Resolute,Kontrakt,Petrogas E&P Netherlands,2017,7,,2017,9,,NA,,,
+10,Paragon C20051,Kontrakt,Total,2011,12,,2012,9,,"$101,000",,7/21/2015 6:02:39,6/8/2012 8:55:53
+10,Paragon C20051,Kontrakt,Total,2012,10,,2014,5,,"$154,000",,6/21/2013 3:55:33,6/21/2013 3:54:56
+10,Paragon C20051,Kontrakt,Total,2014,6,,2015,12,,"$125,000",,12/11/2013 3:55:42,12/11/2013 3:54:53
+10,Paragon C20051,Kontrakt,Total,2016,1,,2016,5,,"$135,000",,,
+10,Paragon C20051,Avvik,Stacked,2016,6,,2020,1,,$0,,,
+11,Paragon C461,Kontrakt,GDF,2012,1,,2012,5,,"$105,000",,3/18/2015 6:54:37,6/8/2012 8:55:53
+11,Paragon C461,Kontrakt,GDF,2012,6,,2013,2,,"$118,000",,3/18/2015 6:54:34,6/8/2012 8:55:53
+11,Paragon C461,Kontrakt,Dana Petroleum,2013,3,,2013,5,,"$118,000",,3/18/2015 6:54:34,1/8/2013 5:01:24
+11,Paragon C461,Kontrakt,Dana Petroleum,2013,6,,2013,9,,"$125,000",,3/18/2015 6:54:32,6/8/2012 8:55:53
+11,Paragon C461,Kontrakt,Dana Petroleum,2013,10,,2014,1,,"$130,000",,3/18/2015 6:54:32,6/8/2012 8:55:53
+11,Paragon C461,Kontrakt,Taqa,2014,2,,2015,2,,"$160,000",,3/18/2015 6:54:31,10/5/2012 4:57:24
+11,Paragon C461,Kontrakt,One,2015,3,,2016,8,,"$170,000",,7/21/2015 6:29:25,3/18/2015 6:53:12
+11,Paragon C461,Kontrakt,Tulip Oil,2016,9,,2016,9,,"$68,000",,,
+11,Paragon C461,Kontrakt,One,2016,10,,2017,12,,"$113,000",,,
+12,Paragon C462,Kontrakt,GDF,2012,3,,2012,12,,"$113,000",,7/21/2015 6:04:27,6/8/2012 8:55:53
+12,Paragon C462,Kontrakt,GDF,2013,1,,2014,3,,"$153,000",,7/21/2015 6:04:30,10/5/2012 4:55:58
+12,Paragon C462,Kontrakt,GDF,2014,4,,2015,12,,"$168,000",,7/21/2015 6:29:59,12/11/2013 4:11:49
+12,Paragon C462,Kontrakt,GDF,2015,1,,2015,8,8,"$157,000",,2/20/2015 4:13:05,2/20/2015 4:08:17
+12,Paragon C462,Kontrakt,GDF,2015,9,,2015,8,,"$167,000",,9/11/2015 0:18:23,2/20/2015 4:13:17
+12,Paragon C462,Avvik,IDLE,2015,9,,2020,1,,$0,,9/11/2015 0:18:44,9/11/2015 0:18:29
+13,Paragon C463,Kontrakt,GDF,2012,1,,2012,12,,"$113,000",,7/21/2015 6:04:47,6/8/2012 8:55:53
+13,Paragon C463,Kontrakt,GDF,2013,1,,2014,2,,"$153,000",,7/21/2015 6:04:54,10/5/2012 4:56:45
+13,Paragon C463,Kontrakt,GDF,2014,3,,2015,8,,"$130,000",,7/28/2015 2:40:58,12/11/2013 4:21:28
+13,Paragon C463,Kontrakt,GDF,2015,2,,2016,3,,"$130,000",,9/11/2015 0:17:58,2/20/2015 4:08:52
+13,Paragon C463,Avvik,IDLE,2016,4,,2020,1,,$0,,,
+14,West Hercules,Kontrakt,Husky,2011,11,,2012,6,,"$495,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+14,West Hercules,Avvik,In transit,2012,7,,2012,11,,$0,,6/21/2013 2:03:06,6/8/2012 8:55:53
+14,West Hercules,Kontrakt,Statoil,2013,1,,2016,5,,"$503,000",,2/27/2015 1:47:04,6/8/2012 8:55:53
+14,West Hercules,Avvik,Stacked,2016,6,,2020,1,,$0,,,
+15,West Navigator,Kontrakt,Shell,2009,1,,2012,12,,"$620,000",,6/21/2013 2:03:57,6/8/2012 8:55:53
+15,West Navigator,Kontrakt,Shell,2013,1,,2014,9,,"$609,000",,5/28/2014 5:42:49,6/8/2012 8:55:53
+15,West Navigator,Kontrakt,Centrica ,2014,10,,2014,11,,"$620,000",,5/28/2014 5:44:05,5/28/2014 5:42:56
+15,West Navigator,Avvik,IDLE,2014,12,,2015,6,,,Warm stacked,2/27/2015 1:49:00,2/27/2015 1:48:20
+15,West Navigator,Avvik,IDLE,2015,7,,2020,5,,,Rosneft cont. terminated 14/3,3/16/2015 2:20:25,8/11/2014 3:37:32
+16,Maersk Gallant,Kontrakt,ConocoPhillips,2010,3,,2014,3,,Private,Day rate is private,6/12/2012 2:29:25,6/8/2012 8:55:53
+16,Maersk Gallant,Avvik,Yard,2014,4,,2014,6,,$0,,3/7/2014 1:35:29,6/21/2013 2:29:37
+16,Maersk Gallant,Kontrakt,Statoil,2014,7,,2016,1,,"$389,000",,1/15/2015 5:02:20,7/4/2012 3:03:16
+16,Maersk Gallant,Kontrakt,Total,2016,2,,2016,9,,Private,,,
+16,Maersk Gallant,Avvik,Stacked,2016,10,,2017,1,,$0,,,
+16,Maersk Gallant,Kontrakt,Maersk Oil,2017,2,,2017,8,,,,,
+17,Maersk Giant,Kontrakt,DONG,2010,8,,2012,5,,Private,Day rate is private,6/12/2012 2:29:34,6/8/2012 8:55:53
+17,Maersk Giant,Avvik,Yard,2012,8,,2012,9,,$0,Upgrade,6/21/2013 2:37:34,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,DONG,2012,12,,2013,3,,Private,Day rate is private,6/21/2013 2:31:03,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,Talisman,2013,5,,2013,7,,Private,Day rate is private,6/21/2013 2:31:13,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,Det norske,2013,8,,2013,10,,Private,Day rate is private,6/21/2013 2:31:20,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,Repsol,2013,11,,2013,11,,Private,Day rate is private,3/7/2014 1:36:24,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,Centrica,2013,12,,2014,6,,Private,Day rate is private,3/7/2014 1:36:41,6/8/2012 8:55:53
+17,Maersk Giant,Kontrakt,Det norske,2014,7,,2014,9,,Private,,6/21/2013 2:37:32,1/8/2013 4:29:16
+17,Maersk Giant,Kontrakt,Talisman,2014,10,,2015,8,,"$375,000",,9/14/2015 5:35:48,8/30/2013 1:12:47
+17,Maersk Giant,Kontrakt,DONG,2015,9,,2016,11,,Private,,9/14/2015 5:35:55,9/14/2015 5:35:30
+17,Maersk Giant,Avvik,IDLE,2016,12,,2020,1,,$0,,,
+18,Maersk Guardian,Kontrakt,Det norske Oljeselskap/Faroe,2012,1,,2012,10,,Private,Day rate is private,1/8/2013 4:33:08,6/8/2012 8:55:53
+18,Maersk Guardian,Kontrakt,Lotos,2012,11,,2012,12,,Private,Day rate is private,1/8/2013 4:33:14,6/8/2012 8:55:53
+18,Maersk Guardian,Kontrakt,Lundin,2013,1,,2013,4,,Private,Day rate is private,6/21/2013 2:32:50,6/8/2012 8:55:53
+18,Maersk Guardian,Kontrakt,Lundin,2013,5,,2015,6,,Private,Day rate is private,1/15/2015 5:03:30,6/8/2012 8:55:53
+18,Maersk Guardian,Kontrakt,Premier Oil,2015,7,,2015,8,,Private,Day rate is private,1/15/2015 5:03:37,3/7/2014 1:38:05
+18,Maersk Guardian,Avvik,IDLE,2015,9,,2016,8,,$0,,9/11/2015 0:13:49,9/11/2015 0:13:25
+18,Maersk Guardian,Kontrakt,Maersk Oil,2016,9,,2021,9,,"$129,000",,,
+19,Maersk Innovator,Kontrakt,ConocoPhillips,2010,2,,2017,1,,Private,Day rate is private,7/21/2015 5:44:47,6/8/2012 8:55:53
+19,Maersk Innovator,Kontrakt,ConocoPhillips,2017,2,,2018,5,,"$295,000",,7/27/2015 3:45:28,7/27/2015 3:44:56
+20,Maersk Inspirer,Kontrakt,Statoil,2007,5,,2016,11,,Private,Day rate is private,3/16/2015 3:09:50,6/8/2012 8:55:53
+20,Maersk Inspirer,Avvik,IDLE,2016,12,,2020,1,,$0,,,
+21,Maersk Reacher,Kontrakt,BP Norway,2011,8,,2014,8,,Private,Day rate is private,6/21/2013 2:34:16,6/8/2012 8:55:53
+21,Maersk Reacher,Kontrakt,BP Norway,2014,9,,2016,8,,"$304,000",,8/12/2014 0:38:24,1/5/2014 23:02:06
+21,Maersk Reacher,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+22,Rowan Stavanger,Kontrakt,Talisman,2012,5,,2012,7,,"$350,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+22,Rowan Stavanger,Kontrakt,Talisman,2012,8,,2012,11,,"$310,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+22,Rowan Stavanger,Kontrakt,Talisman,2012,12,,2013,2,,"$240,000",,1/8/2013 5:24:17,6/8/2012 8:55:53
+22,Rowan Stavanger,Kontrakt,Talisman,2013,3,,2014,7,,"$240,000",,3/7/2014 2:11:47,1/8/2013 5:24:37
+22,Rowan Stavanger,Avvik,Yard,2014,8,,2014,8,,$0,,3/7/2014 2:11:53,12/13/2013 0:31:33
+22,Rowan Stavanger,Kontrakt,Talisman,2014,9,,2015,5,,"$150,000",,5/20/2015 0:02:44,12/13/2013 0:32:19
+22,Rowan Stavanger,Avvik,IDLE,2015,6,,2019,12,,$0,,7/31/2015 5:34:33,7/31/2015 5:34:10
+23,West Elara,Kontrakt,Statoil,2012,3,,2017,2,,"$330,000",,2/27/2015 1:52:28,6/8/2012 8:55:53
+23,West Elara,Kontrakt,Statoil,2017,2,,2017,3,,"$330,000",,,
+24,West Epsilon,Kontrakt,Statoil,2010,12,,2014,11,,"$293,000",,2/27/2015 1:52:36,6/8/2012 8:55:53
+24,West Epsilon,Kontrakt,Statoil,2014,12,,2016,11,,"$258,000",,2/27/2015 1:50:47,12/21/2012 3:26:02
+24,West Epsilon,Avvik,Stacked,2016,12,,2020,1,,$0,,,
+25,Bideford Dolphin,Kontrakt,Statoil,2011,1,,2014,1,,"$418,000",,6/21/2013 2:16:57,6/8/2012 8:55:57
+25,Bideford Dolphin,Kontrakt,Statoil,2014,2,,2017,1,,"$474,000",,3/7/2014 1:03:33,10/2/2012 23:43:21
+25,Bideford Dolphin,Avvik,Suspended,2016,7,,2016,10,,"$379,000",,,
+26,Borgland Dolphin,Kontrakt,Rig Management Norway,2010,1,,2014,4,,"$537,000",,3/7/2014 1:13:58,6/8/2012 8:55:57
+26,Borgland Dolphin,Kontrakt,Rig Management Norway,2014,4,,2016,8,,"$525,000",,5/26/2014 3:54:15,3/7/2014 1:16:13
+26,Borgland Dolphin,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+26,Borgland Dolphin,Avvik,Yard,2014,11,,2014,12,,$0,Yard,4/24/2015 1:53:19,9/16/2012 23:54:41
+27,Bredford Dolphin,Kontrakt,Lundin,2011,11,,2013,8,,"$333,000",,11/12/2013 1:22:18,6/8/2012 8:55:57
+27,Bredford Dolphin,Kontrakt,Consortium,2013,9,,2015,11,,"$442,000",,9/2/2015 0:20:37,9/25/2012 1:51:08
+27,Bredford Dolphin,Avvik,IDLE,2015,12,,2020,1,,$0,,,
+28,COSLPioneer,Kontrakt,Statoil,2011,7,,2012,7,,"$320,000",Plus one 2 year option,6/8/2012 8:55:53,6/8/2012 8:55:53
+28,COSLPioneer,Kontrakt,Statoil,2012,8,,2014,7,,"$320,000",,8/1/2013 11:58:26,6/8/2012 8:55:53
+28,COSLPioneer,Kontrakt,Statoil,2014,8,,2016,7,,"$420,000",Terminated,8/1/2013 12:01:48,8/1/2013 11:57:50
+28,COSLPioneer,Avvik,IDLE,2014,10,,2015,6,,$0,,6/25/2015 11:39:27,9/18/2014 1:50:45
+28,COSLPioneer,Avvik,IDLE,2015,6,,2020,1,,$0,,7/31/2015 5:08:08,6/24/2015 4:59:45
+29,Deepsea Atlantic,Kontrakt,Statoil,2009,8,,2013,7,,"$490,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+29,Deepsea Atlantic,Kontrakt,Statoil,2013,8,,2014,8,,"$490,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+29,Deepsea Atlantic,Kontrakt,Statoil,2014,9,,2015,8,,"$490,000",,8/13/2013 5:37:47,8/13/2013 5:37:14
+29,Deepsea Atlantic,Avvik,IDLE,2015,9,,2016,2,,$0,,8/31/2015 5:51:56,8/31/2015 5:51:33
+29,Deepsea Atlantic,Kontrakt,Statoil,2016,3,,2019,3,,"$300,000",,6/14/2015 23:44:35,6/14/2015 23:43:43
+30,Deepsea Bergen,Kontrakt,Statoil,2009,6,,2012,5,,"$320,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+30,Deepsea Bergen,Kontrakt,Statoil,2012,6,,2017,6,,"$339,000",,6/18/2012 22:20:16,6/8/2012 8:55:53
+30,Deepsea Bergen,Avvik,Yard,2015,8,,2015,8,,$0,SPS,7/21/2015 4:35:06,7/21/2015 4:34:35
+30,Deepsea Bergen,Kontrakt,Faroe,2017,7,,2017,8,,NA,,,
+31,Ocean Vanguard,Kontrakt,Statoil,2010,8,,2013,6,,"$354,200",,6/22/2012 0:44:23,6/8/2012 8:55:53
+31,Ocean Vanguard,Avvik,Yard,2013,6,,2013,6,,$0,,1/4/2013 5:06:20,1/4/2013 5:05:31
+31,Ocean Vanguard,Kontrakt,Statoil,2013,7,,2014,7,,"$454,000",Contract terminated from August 2014.,10/17/2014 4:05:25,6/22/2012 0:43:53
+31,Ocean Vanguard,Avvik,Contract terminated,2014,8,,2015,1,,,,10/17/2014 4:05:34,10/17/2014 4:04:27
+31,Ocean Vanguard,Avvik,Stacked,2014,6,,2020,1,,$0,,7/31/2015 5:11:58,1/15/2015 4:05:38
+32,Polar Pioneer,Kontrakt,Statoil,2010,1,,2014,3,,"$519,000",,3/7/2014 3:51:32,6/8/2012 8:55:53
+32,Polar Pioneer,Avvik,Yard,2014,4,,2014,5,,,,3/7/2014 3:51:36,7/2/2013 3:52:06
+32,Polar Pioneer,Kontrakt,Shell,2014,6,,2017,5,,"$620,000",,5/19/2014 0:15:11,10/16/2013 22:53:33
+32,Polar Pioneer,Avvik,Stacked,2016,1,,2020,1,,$0,Contract terminated by operator 28.dec,,
+33,Songa Dee,Kontrakt,Statoil,2011,6,,2014,8,,"$353,000",,5/26/2014 4:36:25,6/8/2012 8:55:53
+33,Songa Dee,Avvik,Statoil,2014,9,,2014,10,,$0,,5/26/2014 4:41:37,6/21/2013 2:12:48
+33,Songa Dee,Kontrakt,Statoil,2014,10,,2016,8,,"$353,000",,5/26/2014 4:36:23,3/7/2014 3:23:13
+33,Songa Dee,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+34,Songa Delta,Kontrakt,Statoil,2012,6,,2013,10,,"$360,000",,5/26/2014 4:41:37,6/8/2012 8:55:53
+34,Songa Delta,Avvik,Yard,2013,11,,2013,11,,$0,,5/26/2014 4:38:50,3/7/2014 3:26:03
+34,Songa Delta,Kontrakt,Statoil,2013,12,,2016,8,,"$360,000",,5/26/2014 4:38:44,3/7/2014 3:26:04
+34,Songa Delta,Kontrakt,Statoil,2013,12,,2016,10,,"$360,000",,10/23/2014 1:51:55,10/23/2014 1:51:36
+34,Songa Delta,Avvik,Suspended,2016,7,20,2016,8,20,"$277,000",,,
+34,Songa Delta,Avvik,IDLE,2016,11,,2020,1,,$0,,,
+35,Songa Trym,Kontrakt,Statoil,2012,6,,2015,11,,"$368,000",,11/1/2015 23:48:43,6/8/2012 8:55:53
+35,Songa Trym,Avvik,Stacked,2015,12,,2021,2,,"$279,000",,,
+35,Songa Trym,Avvik,Suspended,2014,11,,2014,12,,"$269,000",,11/7/2014 1:31:28,11/7/2014 1:31:07
+36,Stena Don,Kontrakt,Statoil,2011,1,,2015,2,,"$400,000",,3/7/2014 4:18:08,6/8/2012 8:55:53
+36,Stena Don,Avvik,Yard,2015,3,,2015,3,,"$495,000",,3/7/2014 4:19:30,10/3/2012 1:28:51
+36,Stena Don,Kontrakt,Statoil,2015,4,,2016,11,,"$400,000",,3/7/2014 4:19:42,3/7/2014 4:19:18
+36,Stena Don,Avvik,IDLE,2016,12,,2020,1,,$0,,,
+37,Transocean Barents,Kontrakt,Det norske Oljeselskap,2011,10,,2012,6,,"$561,000",,12/17/2012 4:52:18,6/8/2012 8:55:53
+37,Transocean Barents,Kontrakt,Det norske Oljeselskap,2012,7,,2014,6,,"$570,000",,3/7/2014 3:58:20,6/8/2012 8:55:53
+37,Transocean Barents,Kontrakt,Shell,2014,8,,2015,8,,"$547,000",,8/19/2015 23:07:06,8/20/2013 23:39:34
+37,Transocean Barents,Kontrakt,Shell,2015,9,,2015,9,,"$300,000",,8/19/2015 23:07:11,8/19/2015 23:06:34
+37,Transocean Barents,Avvik,IDLE,2015,10,,2017,8,,$0,,10/2/2015 5:10:53,10/2/2015 5:08:20
+37,Transcoean Barents,Kontrakt,Suncor,2017,9,,2018,12,,"$260,000",,,
+38,Transcoean Leader,Avvik,Yard,2015,3,,2015,5,,$0,,3/18/2015 6:25:39,3/18/2015 6:25:15
+38,Transocean Leader,Kontrakt,Statoil,2012,3,,2015,2,,"$409,000",,6/21/2013 4:25:46,6/8/2012 8:55:53
+38,Transocean Leader,Kontrakt,EnQuest,2015,5,,2018,4,,"$335,000",,11/20/2014 5:40:09,10/17/2014 3:58:40
+38,Transocean Leader,Kontrakt,EnQuest,2018,5,,2019,4,,"$305,000",,11/20/2014 5:40:17,10/17/2014 4:00:03
+39,Transocean Spitsbergen,Kontrakt,Statoil,2011,10,,2013,6,,"$500,000",,3/7/2014 7:15:26,6/8/2012 8:55:53
+39,Transocean Spitsbergen,Kontrakt,Statoil,2013,7,,2015,7,,"$542,000",,3/7/2014 7:15:27,6/8/2012 8:55:53
+39,Transocean Spitsbergen,Avvik,Suspended,2014,11,,2014,12,,"$400,000",,11/7/2014 1:30:56,11/7/2014 1:30:27
+39,Transocean Spitsbergen,Avvik,IDLE,2015,7,,2015,12,,$0,,7/31/2015 5:33:27,7/29/2015 1:19:17
+39,Transocean Spitsbergen,Kontrakt,OMV,2016,1,,2016,2,,"$454,000",,,
+39,Transocean Spitsbergen,Avvik,IDLE,2016,3,,2016,6,,$0,,,
+39,Transocean Spitsbergen,Kontrakt,Hurricane Energy,2016,7,,2016,12,,NA,,,
+39,Transocean Spitsbergen,Avvik,IDLE,2016,10,,2017,2,,$0,,,
+39,Transocean Spitsbergen,Kontrakt,Repsol,2017,3,,2017,4,,NA,,,
+40,Transocean Winner,Kontrakt,Lundin,2010,4,,2012,11,,"$487,000",,11/19/2012 0:53:39,6/8/2012 8:55:53
+40,Transocean Winner,Kontrakt,Marathon,2012,12,,2015,3,,"$461,000",,3/7/2014 4:10:20,6/8/2012 8:55:53
+40,Transocean Winner,Kontrakt,Marathon,2015,4,,2016,7,,"$492,000",,8/12/2014 0:17:19,10/16/2013 22:55:00
+40,Transocean Winner,Avvik,Retired,2016,8,,2020,1,,$0,,,
+41,West Alpha,Kontrakt,BG Consortium,2009,5,,2012,7,,"$501,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+41,West Alpha,Kontrakt,ExxonMobil,2012,9,,2016,6,,"$506,000",,9/14/2015 2:41:00,6/8/2012 8:55:53
+41,West Alpha,Avvik,IDLE,2016,7,,2020,1,,$0,,9/14/2015 2:41:33,8/11/2014 3:36:23
+42,West Venture,Kontrakt,Statoil,2010,8,,2015,8,,"$404,000",,8/4/2015 1:57:03,6/8/2012 8:55:53
+42,West Venture,Avvik,IDLE,2015,9,,2020,1,,$0,,9/11/2015 0:11:47,9/11/2015 0:11:33
+43,Scarabeo 5,Kontrakt,Statoil,2007,12,,2010,12,,"$420,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+43,Scarabeo 5,Kontrakt,Statoil,2011,1,,2014,7,,"$399,000",,10/3/2012 1:28:12,6/8/2012 8:55:53
+43,Scarabeo 5,Kontrakt,Statoil,2014,8,,2017,8,,"$494,000",,10/3/2012 1:28:37,10/3/2012 1:26:40
+43,Scarabeo 5,Avvik,Contract suspended,2014,9,,2014,12,,$0,Contract suspended,8/11/2014 3:36:01,8/11/2014 3:34:15
+43,Scarabeo 5,Avvik,Contract suspended,2015,8,,2016,4,,$0,Contract suspended,7/21/2015 5:13:55,7/21/2015 5:12:26
+43,Scarabeo 5,Avvik,Contract suspended,2016,5,,2016,7,,$0,Contract suspended,,
+44,Transocean Arctic,Kontrakt,Statoil,2007,1,,2012,6,,"$299,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+44,Transocean Arctic,Kontrakt,Rig Management Norway,2012,7,,2013,8,,"$423,000",,6/21/2013 4:23:34,6/8/2012 8:55:53
+44,Transocean Arctic,Kontrakt,Rig Management Norway,2013,9,,2014,6,,"$415,000",,6/21/2013 4:23:32,6/8/2012 8:55:53
+44,Transocean Arctic,Kontrakt,Rig Management Norway,2014,7,,2016,3,,"$373,000",,8/12/2014 0:14:53,6/21/2013 4:22:14
+44,Transocean Arctic,Kontrakt,Det norske,2016,12,,2017,7,,"$170,000",,8/12/2014 0:15:11,5/28/2014 6:20:22
+44,Transocean Arctic,Kontrakt,Faroe,2016,7,,2016,7,,Privat,,,
+44,Transocean Arctic,Kontrakt,ENGIE,2016,8,,2016,9,,"$179,000",,,
+44,Transocean Arctic,Avvik,Yard,2016,10,,2016,11,,$0,,,
+45,Transocean Searcher,Kontrakt,Statoil,2009,5,,2012,5,,"$434,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+45,Transocean Searcher,Kontrakt,BG,2012,6,,2014,5,,"$394,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+45,Transocean Searcher,Kontrakt,BG,2014,6,,2015,5,,"$386,000",,1/8/2015 3:42:38,7/18/2012 22:49:48
+45,Transocean Searcher,Avvik,Cold Stacked,2015,8,,2020,1,,$0,,8/4/2015 1:57:57,8/4/2015 1:57:17
+45,Transocean Searcher,Kontrakt,Edison,2015,6,,2015,7,,"$370,000",,1/8/2015 3:42:44,1/8/2015 3:42:09
+46,Paragon HZ1,Kontrakt,Wintershall,2012,1,,2012,12,,"$115,000",,7/29/2015 1:22:23,6/8/2012 8:55:53
+46,Paragon HZ1,Kontrakt,Wintershall,2013,1,,2013,11,,"$140,000",,7/29/2015 1:22:22,6/8/2012 8:55:53
+46,Paragon HZ1,Kontrakt,Wintershall,2013,12,,2015,5,,"$168,000",,7/29/2015 1:22:21,12/11/2013 4:08:36
+46,Paragon HZ1,Kontrakt,Wintershall,2015,6,,2016,8,,"$142,000",,2/20/2015 4:17:41,2/20/2015 4:09:27
+46,Paragon HZ1,Kontrakt,Wintershall,2016,9,,2016,12,,"$53,000",,,
+46,Paragon HZ1,Avvik,IDLE,2017,1,,2020,1,,$0,,,
+47,Stena Carron,Kontrakt,Chevron,2012,1,,2013,12,,"$515,000",,12/13/2013 2:22:54,6/8/2012 8:55:53
+47,Stena Carron,Avvik,Yard,2014,1,,2014,2,,$0,,12/13/2013 2:22:58,12/13/2013 2:22:27
+47,Stena Carron,Kontrakt,Statoil,2014,3,,2014,11,,"$630,000",Terminated 21/11-2014,3/16/2015 2:29:06,12/13/2013 2:23:07
+47,Stena Carron,Avvik,IDLE,2014,12,,2020,1,,$0,,7/31/2015 5:31:47,3/16/2015 2:28:30
+48,Energy Enhancer,Kontrakt,Maersk Oil,2012,6,,2014,7,,"$130,000",,3/7/2014 1:54:22,6/8/2012 8:55:53
+48,Energy Enhancer,Kontrakt,Maersk Oil,2014,7,,2015,6,,"$140,000",,5/28/2014 4:48:56,5/28/2014 4:47:59
+48,Energy Enhancer,Avvik,IDLE,2015,7,,2019,12,,$0,,7/31/2015 5:32:34,7/29/2015 1:23:08
+49,Encso 100,Kontrakt,Ithaca,2013,6,,2014,12,,"$160,000",,3/7/2014 5:54:59,6/20/2013 5:26:20
+49,Ensco 100,Kontrakt,E.ON,2012,1,,2012,12,,"$150,000",,6/20/2013 5:20:50,6/8/2012 8:55:53
+49,Ensco 100,Kontrakt,Ithaca,2013,2,,2013,4,,"$160,000",,6/20/2013 5:26:42,6/8/2012 8:55:53
+49,Ensco 100,Avvik,Yard,2013,5,,2013,5,,$0,,6/20/2013 5:27:14,6/20/2013 5:25:46
+49,Ensco 100,Kontrakt,Ithaca,2014,1,,2015,1,,,,3/7/2014 5:55:12,3/7/2014 1:26:53
+49,Ensco 100,Avvik,Yard,2015,1,,2015,4,,$0,,3/18/2015 6:31:10,3/18/2015 6:30:11
+49,Ensco 100,Kontrakt,Premier Oil,2015,6,,2018,10,,"$180,000",,3/18/2015 6:31:42,5/28/2014 5:01:56
+50,Ensco 101,Kontrakt,Maersk Oil,2012,1,,2013,2,,"$200,000",,6/20/2013 5:30:09,6/8/2012 8:55:53
+50,Ensco 101,Avvik,Yard,2013,3,,2013,4,,$0,25 days,6/20/2013 5:30:04,6/8/2012 8:55:53
+50,Ensco 101,Kontrakt,Tullow,2013,5,,2013,8,,"$210,000",,6/20/2013 5:29:22,6/8/2012 8:55:53
+50,Ensco 101,Kontrakt,Dong,2013,9,,2014,1,,"$220,000",,6/20/2013 5:30:53,1/8/2013 2:01:25
+50,Ensco 101,Kontrakt,BP,2014,2,,2015,12,,"$215,000",,3/7/2014 1:28:04,9/7/2012 2:50:37
+50,Ensco 101,Kontrakt,BP,2016,1,,2016,8,,"$210,000",,7/21/2015 4:48:21,7/21/2015 4:47:52
+50,Ensco 101,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+51,Ensco 102,Kontrakt,ConocoPhillips,2012,1,,2015,5,,"$200,000",,3/18/2015 1:21:48,6/8/2012 8:55:53
+51,Ensco 102,Avvik,IDLE,2015,6,,2015,11,,$0,,8/4/2015 2:04:33,7/21/2015 4:48:46
+51,Ensco 102,Kontrakt,GDF Suez,2015,12,,2016,8,,"$50,000",,,
+51,Ensco 102,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+52,Ensco 72,Kontrakt,Maersk Oil,2012,1,,2013,7,,"$110,000",Plus two 1-year options,6/20/2013 4:56:47,6/8/2012 8:55:53
+52,Ensco 72,Kontrakt,Maersk Oil,2013,8,,2015,8,,"$140,000",,8/12/2014 0:05:52,6/20/2013 4:56:28
+52,Ensco 72,Kontrakt,Maersk Oil,2015,8,,2016,8,,"$170,000",,7/21/2015 4:52:48,7/21/2015 4:52:04
+52,Ensco 72,Avvik,Stacked,2016,9,,2020,1,,$0,,,
+53,Ensco 80,Kontrakt,Dana Petroleum,2012,1,,2012,5,,"$100,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+53,Ensco 80,Kontrakt,Perenco,2012,6,,2012,11,,"$90,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+53,Ensco 80,Kontrakt,EOG,2012,12,,2013,11,,"$130,000",,6/20/2013 5:02:09,6/8/2012 8:55:53
+53,Ensco 80,Avvik,Yard,2013,12,,2014,3,,$0,,12/10/2013 5:10:26,6/20/2013 5:01:38
+53,Ensco 80,Kontrakt,GDF,2014,4,,2017,3,,"$130,000",,12/10/2013 5:11:00,6/8/2012 8:55:53
+54,Ensco 92,Kontrakt,RWE Dea,2012,1,,2013,4,,"$80,000",,6/20/2013 5:08:06,6/8/2012 8:55:53
+54,Ensco 92,Kontrakt,Bridge,2013,3,,2013,12,,"$140,000",,1/8/2013 1:53:34,6/8/2012 8:55:53
+54,Ensco 92,Kontrakt,Tullow,2013,5,,2013,6,,"$130,000",,6/20/2013 5:15:55,6/8/2012 8:55:53
+54,Ensco 92,Kontrakt,One,2013,7,,2013,8,,"$130,000",,6/20/2013 5:16:24,6/20/2013 5:13:46
+54,Ensco 92,Kontrakt,Tullow,2013,9,,2014,1,,"$140,000",,3/7/2014 1:32:36,6/20/2013 5:16:51
+54,Ensco 92,Kontrakt,One,2014,2,,2014,5,,"$140,000",,5/28/2014 5:06:02,6/20/2013 5:17:24
+54,Ensco 92,Kontrakt,ConocoPhillips,2014,6,,2018,7,,"$160,000",,1/15/2015 3:19:44,6/20/2013 5:18:25
+55,GSF Galaxy II,Kontrakt,GDF Suez,2012,12,,2013,8,,"$188,000",,4/19/2013 3:42:42,9/28/2012 1:59:37
+55,GSF Galaxy II,Kontrakt,GDF Suez,2013,12,,2014,2,,"$207,000",,4/19/2013 3:43:16,9/28/2012 2:01:12
+55,GSF Galaxy II,Kontrakt,GDF Suez,2014,3,,2015,3,,"$218,000",,3/18/2015 6:39:00,9/28/2012 2:01:55
+55,GSF Galaxy II,Kontrakt,GDF Suez,2015,4,,2015,8,,"$199,000",,7/21/2015 5:11:07,4/24/2015 1:55:44
+55,GSF Galaxy II ,Kontrakt,Nexen,2012,1,,2012,11,,"$149,000",,3/7/2014 3:44:28,6/8/2012 8:55:53
+55,GSF Galaxy II,Avvik,Stacked,2015,9,,2020,1,,$0,,9/11/2015 0:13:03,9/11/2015 0:12:12
+56,GSF Galaxy III,Kontrakt,Nexen,2012,1,,2013,6,,"$147,000",,9/19/2012 0:24:32,6/8/2012 8:55:53
+56,GSF Galaxy III,Kontrakt,Nexen,2013,7,,2014,4,,"$220,000",,5/28/2014 6:09:31,9/19/2012 0:21:39
+56,GSF Galaxy III,Kontrakt,Nexen,2014,5,,2014,6,,"$180,000",,5/28/2014 6:09:43,5/28/2014 6:09:02
+56,GSF Galaxy III,Kontrakt,Maersk Oil,2014,11,,2015,3,,"$175,000",,3/18/2015 6:39:21,1/15/2015 4:00:12
+56,GSF Galaxy III,Avvik,Stacked,2015,4,,2020,1,,$0,,8/5/2015 0:37:14,4/24/2015 1:56:58
+57,Maersk Resilent,Kontrakt,ConocoPhillips,2011,8,,2014,7,,Private,Day rate is private,6/21/2013 2:34:58,6/8/2012 8:55:53
+57,Maersk Resilent,Kontrakt,ConocoPhillips,2014,8,,2015,4,,Private,Day rate is private,4/24/2015 2:00:48,12/10/2013 5:46:27
+57,Maersk Resilent,Kontrakt,Maersk Oil,2015,10,,2018,9,,"$100,000",,9/24/2015 6:18:25,9/24/2015 6:17:44
+58,Noble Hans Deul,Kontrakt,Shell,2011,2,,2013,1,,"$175,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+58,Noble Hans Deul,Kontrakt,Shell,2013,2,,2014,7,,"$242,500",,9/7/2012 2:50:19,9/7/2012 2:49:49
+58,Noble Hans Deul,Kontrakt,Shell,2014,8,,2016,7,,"$242,500",,3/7/2014 1:47:39,3/7/2014 1:47:17
+58,Noble Hans Deul,Kontrakt,Shell,2016,8,,2018,7,,"$88,600",,,
+59,Paragon B391,Kontrakt,Centrica,2012,3,,2013,3,,"$118,000",,7/21/2015 6:04:03,6/8/2012 8:55:53
+59,Paragon B391,Kontrakt,Centrica,2013,4,,2016,4,,"$150,000",,7/21/2015 6:04:04,6/21/2013 3:58:11
+59,Paragon B391,Avvik,Stacked,2016,5,,2020,1,,$0,,,
+60,Rowan Gorilla V,Kontrakt,Total,2012,1,,2012,5,,"$180,000",,6/20/2013 5:21:40,6/8/2012 8:55:53
+60,Rowan Gorilla V,Kontrakt,Total,2012,6,,2013,5,,"$200,000",,1/8/2013 5:18:07,6/8/2012 8:55:53
+60,Rowan Gorilla V,Avvik,Yard,2013,6,,2013,10,,,,6/28/2013 1:19:26,6/28/2013 1:15:33
+60,Rowan Gorilla V,Kontrakt,Total,2013,6,,2016,8,,"$170,000",,5/20/2015 0:01:18,7/18/2013 23:23:37
+60,Rowan Gorilla V,Avvik,Yard,2015,6,,2015,7,,$0,,12/13/2013 0:27:04,12/13/2013 0:26:06
+60,Rowan Gorilla V,Avvik,Stacked,2015,8,,2020,1,,$0,,,
+61,Rowan Gorilla VI,Kontrakt,BG,2012,12,,2014,5,,"$200,000",,3/21/2014 1:54:16,6/8/2012 8:55:53
+61,Rowan Gorilla VI,Avvik,Yard,2014,6,,2014,5,,$0,,3/21/2014 1:53:56,1/8/2013 5:16:01
+61,Rowan Gorilla VI,Kontrakt,ConocoPhillips,2014,6,,2018,2,,"$355,000",,2/27/2015 5:19:48,6/8/2012 8:55:53
+62,Rowan Gorilla VII,Kontrakt,Apache,2012,1,,2012,4,,"$180,000",,6/11/2012 3:27:33,6/8/2012 8:55:53
+62,Rowan Gorilla VII,Kontrakt,Apache,2012,5,,2012,5,,"$180,000",,6/11/2012 3:28:09,6/8/2012 8:55:53
+62,Rowan Gorilla VII,Kontrakt,Apache,2012,6,,2013,11,,"$250,000",,3/7/2014 2:05:31,6/11/2012 3:28:21
+62,Rowan Gorilla VII,Avvik,Yard,2013,12,,2014,2,,$0,,3/7/2014 2:05:35,4/19/2013 3:32:24
+62,Rowan Gorilla VII,Kontrakt,Apache,2014,3,,2016,10,,"$181,000",,7/29/2015 1:29:36,3/7/2014 2:05:13
+62,Rowan Gorilla VII,Avvik,Yard,2015,6,,2015,6,,$0,,7/21/2015 4:40:34,5/20/2015 0:13:40
+62,Rowan Gorilla VII,Kontrakt,Perenco,2016,11,,2017,3,,"$100,000",,,
+63,Rowan Norway,Kontrakt,Xcite Energy,2012,1,,2012,10,,"$250,000",,6/20/2013 5:21:48,6/8/2012 8:55:53
+63,Rowan Norway,Kontrakt,ConocoPhillips,2012,12,,2014,2,,"$350,000",,3/7/2014 2:07:46,6/8/2012 8:55:53
+63,Rowan Norway,Avvik,Yard,2014,3,,2014,3,,$0,,12/19/2013 23:56:26,12/19/2013 23:56:02
+63,Rowan Norway,Kontrakt,ConocoPhillips,2014,4,,2016,7,,"$350,000",,3/7/2014 2:07:49,3/7/2014 2:07:21
+63,Rowan Norway,Avvik,Stacked,2016,8,,2020,1,,$0,,,
+64,Rowan Viking,Kontrakt,Total UK,2012,1,,2012,12,,"$210,000",,6/20/2013 5:22:02,6/8/2012 8:55:53
+64,Rowan Viking,Kontrakt,Total UK,2013,1,,2014,4,,"$246,000",,3/21/2014 1:50:07,1/8/2013 5:26:46
+64,Rowan Viking,Avvik,Yard,2014,5,,2014,8,,$0,,3/21/2014 1:50:28,1/8/2013 5:30:11
+64,Rowan Viking,Kontrakt,Lundin,2014,9,,2015,1,,"$350,000",,3/7/2014 2:15:09,11/29/2012 0:12:56
+64,Rowan Viking,Kontrakt,Lundin,2016,1,,2017,10,,"$275,000",,,
+65,Borgsten Dolphin,Kontrakt,Valiant,2011,11,,2012,7,,"$262,000",,6/8/2012 8:56:07,6/8/2012 8:55:57
+65,Borgsten Dolphin,Avvik,Yard,2012,10,,2012,10,,$0,,3/10/2014 12:49:42,6/8/2012 8:55:57
+65,Borgsten Dolphin,Kontrakt,Total,2012,11,,2015,9,,"$204,000",,12/10/2013 1:28:24,6/8/2012 8:55:57
+65,Borgsten Dolphin,Kontrakt,Total,2015,10,,2018,1,,"$166,000",,,
+66,Byford Dolphin,Kontrakt,BP,2010,4,,2013,3,,"$324,000",,6/8/2012 8:56:07,6/8/2012 8:55:57
+66,Byford Dolphin,Kontrakt,BP,2013,4,,2016,9,,"$345,000",,6/11/2012 0:19:08,6/8/2012 8:55:53
+66,Byford Dolphin,Avvik,Stacked,2016,10,,2020,1,,$0,,,
+67,Paragon MSS1,Kontrakt,Centrica/Maersk Oil,2010,12,,2012,12,,"$247,000",,7/21/2015 6:05:14,6/8/2012 8:55:53
+67,Paragon MSS1,Kontrakt,Maersk Oil,2013,1,,2013,4,,"$365,000",,1/8/2013 4:50:27,6/8/2012 8:55:53
+67,Paragon MSS1,Avvik,Inspection,2013,5,,2013,5,,$0,,6/21/2013 3:50:04,6/21/2013 3:47:42
+67,Paragon MSS1,Kontrakt,Nexen,2013,6,,2015,5,,"$277,000",,7/28/2015 2:42:11,1/8/2013 4:49:59
+67,Paragon MSS1,Kontrakt,Nexen,2015,6,,2016,1,,"$225,000",,7/28/2015 2:42:18,7/28/2015 2:41:54
+67,Paragon MSS1,Avvik,IDLE,2016,2,,2016,7,,$0,,,
+67,Paragon MSS1,Kontrakt,Nexen,2016,8,,2016,10,,"$110,000",,,
+67,Paragon MSS1,Avvik,IDLE,2016,11,,2020,1,,$0,,,
+68,Ocean Nomad,Kontrakt,BG International,2011,9,20,2012,8,10,"$235,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+68,Ocean Nomad,Kontrakt,Fairfield Cedrus,2012,10,,2013,1,,"$280,000",,3/7/2013 0:42:47,6/8/2012 8:55:53
+68,Ocean Nomad,Kontrakt,Dana Petroleum,2013,2,,2013,3,,"$280,000",,3/7/2013 0:43:02,6/8/2012 8:55:53
+68,Ocean Nomad,Kontrakt,First Oil,2013,3,3,2013,3,,"$280,000",,3/7/2013 0:45:35,3/7/2013 0:43:19
+68,Ocean Nomad,Kontrakt,Balin Energy,2013,5,,2013,6,,"$410,000",,3/7/2013 0:44:46,3/7/2013 0:44:17
+68,Ocean Nomad,Avvik,Yard,2013,6,,2013,8,,$0,,3/7/2013 0:44:04,6/8/2012 8:55:53
+68,Ocean Nomad,Kontrakt,Dana Petroleum,2013,8,,2015,6,,"$330,000",,7/28/2015 2:36:15,6/8/2012 8:55:53
+68,Ocean Nomad,Avvik,Stacked,2015,7,,2020,1,,$0,IDLE,8/31/2015 5:36:58,7/28/2015 2:36:22
+69,Ocean Princess,Kontrakt,EnQuest,2012,1,,2014,7,,"$230,000",,8/12/2014 2:53:37,6/8/2012 8:55:53
+69,Ocean Princess,Kontrakt,EnQuest,2014,9,,2014,11,,"$300,000",,8/12/2014 2:54:04,3/7/2013 0:49:37
+69,Ocean Princess,Kontrakt,Ithaca,2014,8,,2015,2,,"$345,000",,3/18/2015 6:43:50,5/26/2014 5:05:36
+69,Ocean Princess,Avvik,Ready stacked,2015,3,,2020,1,,$0,,8/31/2015 5:36:08,3/18/2015 6:43:53
+70,Paul B. Loyd Jr.,Kontrakt,BP,2012,3,,2013,2,,"$345,000",,6/10/2012 12:16:53,6/10/2012 11:46:40
+70,Paul B. Loyd Jr.,Kontrakt,BP,2013,3,,2013,5,,"$345,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+70,Paul B. Loyd Jr.,Kontrakt,BP,2013,6,,2013,8,,"$345,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+70,Paul B. Loyd Jr.,Kontrakt,BP,2013,9,,2015,2,,"$440,000",,5/19/2014 0:10:16,6/15/2012 4:10:34
+70,Paul B. Loyd Jr.,Kontrakt,BP,2015,3,,2017,6,,"$450,000",,5/19/2014 0:10:42,5/19/2014 0:09:49
+71,Sedco 711,Kontrakt,Talisman,2012,5,,2013,6,,"$275,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+71,Sedco 711,Kontrakt,Talisman,2013,7,,2014,4,,"$350,000",,6/15/2012 4:09:17,6/15/2012 4:08:32
+71,Sedco 711,Kontrakt,Talisman,2014,5,,2015,12,,"$350,000",,7/21/2015 5:16:26,6/15/2012 4:11:43
+71,Sedco 711,Avvik,Stacked,2016,1,,2020,1,,$0,,,
+72,Sedco 714,Kontrakt,Total,2011,6,,2012,11,,"$254,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+72,Sedco 714,Kontrakt,Total,2012,12,,2014,4,,"$401,000",,5/19/2014 0:13:02,9/7/2012 2:46:16
+72,Sedco 714,Kontrakt,Total,2014,9,,2015,8,,"$430,000",,5/19/2014 0:13:19,6/21/2013 4:19:20
+72,Sedco 714,Kontrakt,Total,2015,9,,2016,1,,"$435,000",,7/21/2015 5:16:54,5/19/2014 0:11:41
+72,Sedco 714,Avvik,Stacked,2016,2,,2020,1,,$0,,,
+73,Stena Spey,Kontrakt,EnQuest,2012,1,,2012,11,,"$355,000",,3/7/2014 4:19:53,6/8/2012 8:55:53
+73,Stena Spey,Kontrakt,EnQuest,2013,1,,2016,9,,"$355,000",,1/19/2015 0:37:29,6/21/2013 4:40:07
+73,Stena Spey,Avvik,IDLE,2016,10,,2020,1,,$0,,,
+74,Transocean John Shaw,Kontrakt,Taqa,2012,3,,2012,9,,"$276,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+74,Transocean John Shaw,Kontrakt,EOG,2012,10,,2012,11,,"$305,000",,6/15/2012 4:16:34,6/8/2012 8:55:53
+74,Transocean John Shaw,Kontrakt,Taqa,2012,12,,2013,12,,"$320,000",,3/7/2014 4:04:22,6/8/2012 8:55:53
+74,Transocean John Shaw,Avvik,Yard,2014,1,,2014,4,,$0,,3/7/2014 4:04:40,6/28/2013 1:03:45
+74,Transocean John Shaw,Kontrakt,Taqa,2014,5,,2016,1,,"$360,000",,3/7/2014 4:05:18,9/7/2012 2:49:00
+74,Transocean John Shaw,Avvik,Stacked,2016,2,,2020,1,,$0,,,
+75,Transocean Prospect,Kontrakt,Nexen,2011,6,,2013,1,,"$246,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+75,Transocean Prospect,Kontrakt,Nexen,2013,2,,2013,7,,"$252,000",,3/7/2014 4:07:50,6/8/2012 8:55:53
+75,Transocean Prospect,Kontrakt,Nexen,2013,8,,2014,1,,,,3/7/2014 4:08:15,3/7/2014 4:07:56
+75,Transocean Prospect,Kontrakt,ConocoPhillips,2014,2,,2014,7,,"$405,000",,3/7/2014 4:08:24,9/19/2012 0:17:08
+75,Transocean Prospect,Kontrakt,ConocoPhillips,2014,8,,2015,8,,"$375,000",,8/4/2015 2:08:53,9/19/2012 0:20:03
+75,Transocean Prospect,Avvik,Cold Stacked,2015,9,,2020,1,,$0,,9/11/2015 0:19:51,9/11/2015 0:19:28
+76,West Phoenix,Kontrakt,Total UK,2012,1,,2015,8,,"$458,000",,10/2/2015 5:11:44,6/8/2012 8:55:53
+76,West Phoenix,Avvik,IDLE,2015,9,,2016,3,,"$75,000",,10/2/2015 5:12:35,10/2/2015 5:11:13
+76,West Phoenix,Kontrakt,Total UK,2016,4,,2016,9,,"$285,000",,10/2/2015 5:13:20,10/2/2015 5:11:09
+76,West Phoenix,Avvik,Stacked,2016,10,,2017,1,,$0,,,
+76,West Phoenix,Kontrakt,Total,2017,2,,2017,5,,"$145,000",,,
+76,West Phoenix,Kont,TBA,2017,6,,2017,6,,NA,,,
+77,Wilhunter,Kontrakt,MPX,2012,3,,2012,3,,"$245,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+77,Wilhunter,Kontrakt,MPX,2012,4,,2012,4,,"$245,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+77,Wilhunter,Kontrakt,Ithaca,2012,5,,2012,7,,"$225,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+77,Wilhunter,Kontrakt,Suncor,2012,8,,2012,12,,"$300,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+77,WilHunter,Kontrakt,Suncor,2013,1,,2013,3,,"$300,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+77,Wilhunter,Kontrakt,Hess,2013,4,,2014,5,,"$360,000",,6/21/2013 2:21:45,6/8/2012 8:55:53
+77,Wilhunter,Kontrakt,Hess,2014,6,,2015,11,,"$385,000",,6/21/2013 2:22:00,3/7/2013 0:34:40
+77,Wilhunter,Avvik,Warm stacked,2015,7,,2020,1,,$0,,11/19/2015 1:58:40,5/26/2014 3:25:38
+78,WilPhoenix,Kontrakt,Hess,2012,3,,2012,9,,"$255,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+78,WilPhoenix,Kontrakt,Premier Oil,2012,10,,2012,11,,"$333,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+78,WilPhoenix,Kontrakt,Premier Oil,2012,12,,2013,9,,"$315,000",,6/21/2013 2:23:00,6/8/2012 8:55:53
+78,WilPhoenix,Kontrakt,Premier Oil,2013,10,,2014,2,,"$351,000",,6/21/2013 2:23:54,6/21/2013 2:22:52
+78,WilPhoenix,Kontrakt,Premier Oil,2014,3,,2014,5,,"$315,000",,6/21/2013 2:23:57,6/21/2013 2:23:18
+78,WilPhoenix,Kontrakt,Premier Oil,2014,6,,2014,10,,"$442,500",,3/7/2014 0:52:04,12/10/2013 1:15:34
+78,WilPhoenix,Kontrakt,Apache,2014,11,,2017,10,,"$387,500",,11/19/2015 1:58:31,8/13/2013 5:35:02
+78,WilPhoenix,Avvik,Yard,2016,1,,2016,1,,$0,,1/18/2015 23:48:58,5/26/2014 3:26:53
+79,GSF Arctic III,Kontrakt,Nexen,2012,3,,2012,8,,"$280,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+79,GSF Arctic III,Kontrakt,Nexen,2012,9,,2012,11,,"$316,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+79,GSF Arctic III,Kontrakt,ATP Oil and Gas,2012,12,,2013,3,,"$335,000",,6/21/2013 4:32:45,7/18/2012 23:59:47
+79,GSF Arctic III,Kontrakt,Chevron,2013,4,,2013,5,,"$360,000",,6/21/2013 4:36:17,6/21/2013 4:32:48
+79,GSF Arctic III,Kontrakt,ATP Oil and Gas,2013,6,,2013,7,,"$313,000",,6/21/2013 4:36:19,6/21/2013 4:34:03
+79,GSF Arctic III,Kontrakt,Chevron,2013,8,,2013,8,,"$360,000",,6/21/2013 4:36:21,6/21/2013 4:34:31
+79,GSF Arctic III,Kontrakt,Chevron,2013,9,,2014,9,,"$410,000",,5/28/2014 6:08:24,6/21/2013 4:34:39
+79,GSF Arctic III,Avvik,Retired,2014,10,,2020,1,,$0,,8/4/2015 2:07:16,1/15/2015 3:59:05
+80,Sedco 704,Kontrakt,Talisman,2012,4,,2012,6,,"$280,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+80,Sedco 704,Kontrakt,Chevron,2012,7,,2012,11,,"$310,000",,6/15/2012 4:08:08,6/15/2012 4:07:35
+80,Sedco 704,Kontrakt,Maersk Oil,2013,6,,2016,1,,"$373,000",,7/21/2015 5:16:02,6/15/2012 4:12:54
+80,Sedco 704,Kontrakt,Maersk Oil,2016,2,,2016,2,,"$219,000",,,
+80,Sedco 704,Kontrakt,Zennor Petroleum,2016,3,,2016,6,,"$150,000",,,
+80,Sedco 704,Kontrakt,Independent Oil & Gas,2016,7,,2016,8,,NA,,,
+80,Sedco 704,Avvik,Stacked,2016,9,,2020,1,,NA,,,
+81,Deepsea Stavanger,Kontrakt,BP,2011,11,,2014,10,,"$450,000",,6/21/2013 3:28:42,6/8/2012 8:55:53
+81,Deepsea Stavanger,Kontrakt,BP,2014,11,,2015,12,,"$540,000",,5/20/2014 0:00:24,5/19/2014 23:59:21
+81,Deepsea Stavanger,Avvik,IDLE,2016,1,,2016,3,,$0,,9/7/2015 4:32:16,9/7/2015 4:31:50
+81,Deepsea Stavanger,Kontrakt,JX Nippon,2016,4,,2016,6,,"$275,000",,,
+81,Deepsea Stavanger,Avvik,IDLE,2016,7,,2017,3,,$0,,,
+81,Deepsea Stavanger,Kontrakt,Wintershall,2017,4,,2018,11,,"$300,000",,9/7/2015 4:31:45,9/7/2015 4:29:42
+82,Leiv Eiriksson,Kontrakt,Borders & Southern,2012,1,,2012,10,,"$530,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+82,Leiv Eiriksson,Avvik,Yard,2012,11,,2013,3,,$0,Mob. new contract,6/18/2013 0:52:29,6/8/2012 8:55:53
+82,Leiv Eiriksson,Kontrakt,Rig Management Norway,2013,4,,2016,3,,"$545,000",,2/27/2015 1:38:37,6/8/2012 8:55:53
+82,Leiv Eiriksson,Kontrakt,Lundin,2016,8,,2017,3,,"$145,000",,7/31/2015 5:14:26,2/27/2015 1:38:16
+82,Leiv Eiriksson,Avvik,Yard,2016,3,,2016,7,,$0,,,
+83,Deepsea Aberdeen,Avvik,Under construction,2011,12,,2014,10,,$0,,6/10/2012 10:08:49,6/10/2012 10:08:28
+83,Deepsea Aberdeen,Kontrakt,BP,2014,11,,2021,10,,"$470,000",,6/10/2012 10:07:38,6/8/2012 8:55:53
+84,J W McLean,Avvik,Retired,2010,7,,2099,1,,$0,Scrap,7/31/2015 5:12:56,6/8/2012 8:55:53
+85,Sedco 712,Avvik,Stacked,2012,1,,2013,9,,$0,,6/28/2013 0:17:26,6/8/2012 8:55:53
+85,Sedco 712,Kontrakt,Talisman,2013,10,,2016,10,,"$380,000",,3/7/2014 3:54:54,6/21/2013 4:17:44
+85,Sedco 712,Kontrakt,ConocoPhillips,2016,11,,2017,1,,NA,,,
+85,Sedco 712,Kontrakt,Fairfield Energy,2017,4,,2018,5,,NA,,,
+86,Maersk Intrepid,Avvik,Under construction,2011,2,,2014,4,,$0,,3/24/2014 1:14:25,6/8/2012 8:55:53
+86,Maersk Intrepid,Kontrakt,Total,2014,7,,2018,7,,"$377,000",4x1-year options,3/24/2014 1:14:27,6/8/2012 8:55:53
+87,Maersk Interceptor,Avvik,Under construction,2011,2,,2014,9,,$0,,11/24/2014 1:14:30,6/8/2012 8:55:53
+87,Maersk Interceptor,Kontrakt,Det norske Oljeselskap,2014,10,,2017,10,,"$377,000",,11/24/2014 1:14:30,6/8/2012 8:55:53
+87,Maersk Interceptor,Kontrakt,Det norske Oljeselskap,2017,11,,2019,10,,"$381,000",,11/24/2014 1:14:37,6/7/2013 0:18:51
+89,Statoil CAT J1,Avvik,Under construction,2012,2,,2015,6,,$0,,6/21/2013 2:42:11,6/11/2012 22:58:59
+89,Statoil CAT J1,Kontrakt,Noble,2015,7,,2019,6,,"$410,000",,6/21/2013 2:42:10,6/21/2013 2:41:07
+90,Askeladden,Kontrakt,Gullfaks,2017,5,,2025,4,,NA,,7/31/2015 5:02:12,6/11/2012 23:00:30
+90,Askeladden,Avvik,Under construction,2012,1,,2017,4,,$0,,7/31/2015 5:13:54,7/31/2015 5:01:46
+91,COSLInnovator,Kontrakt,Statoil,2012,6,,2016,2,,"$335,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+91,COSLInnovator,Avvik,Yard,2015,12,,2016,2,,,SPS and repair,,
+91,COSLInnovator,Avvik,IDLE,2016,3,,2020,1,,,Contract terminated,,
+92,COSLPromoter,Kontrakt,Statoil,2012,6,,2020,6,,"$335,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+93,COSLProspector,Avvik,Under construction,2012,1,,2015,5,,$0,,7/28/2015 3:00:45,6/10/2012 10:38:29
+93,COSLProspector,Kontrakt,CNOOC,2015,6,,2015,10,,Private,,10/2/2015 5:07:12,7/28/2015 3:00:27
+93,COSLProspector,Avvik,Ready stacked,2015,11,,2020,1,,$0,,11/11/2015 0:14:13,11/11/2015 0:13:49
+94,Island Innovator,Avvik,Under construction,2011,1,,2013,7,,$0,,6/27/2013 0:22:27,6/10/2012 11:31:40
+94,Island Innovator,Kontrakt,Lundin,2013,8,,2016,2,,Private,Dayrate is private,10/2/2015 5:06:37,6/8/2012 8:55:53
+94,Island Innovator,Avvik,Ready stacked,2016,3,,2020,1,,$0,,,
+94,Island Innovator,Kontrakt,Lundin,2017,3,,2017,4,,Private,,,
+95,Scarabeo 8 ,Kontrakt,ENI,2012,6,,2017,6,,"$460,000",,6/8/2012 8:55:53,6/8/2012 8:55:53
+95,Scarabeo 8 ,Avvik,Yard,2016,8,,2016,11,,$0,SPS/Supsension,,
+96,Songa Equinox,Avvik,Under construction,2011,7,,2015,11,,,,3/7/2014 3:31:18,6/8/2012 8:55:53
+96,Songa Equinox,Kontrakt,Statoil,2015,12,,2022,10,,"$490,000",,8/28/2015 1:21:02,6/8/2012 8:55:53
+97,Songa Endurance,Avvik,Under construction,2011,7,,2015,11,,,,5/26/2014 4:41:33,6/10/2012 11:12:55
+97,Songa Endurance,Kontrakt,Statoil,2015,12,,2023,1,,"$490,000",,8/28/2015 1:21:17,6/8/2012 8:55:53
+98,Songa Encourage,Avvik,Under construction,2012,2,,2016,3,,,,3/7/2014 3:30:45,6/10/2012 11:13:26
+98,Songa Encourage,Kontrakt,Statoil,2016,4,,2023,6,,"$453,000",,8/28/2015 1:23:12,6/8/2012 8:55:53
+99,Songa Enabler,Avvik,Under construction,2012,2,,2016,7,,,,3/7/2014 3:30:20,6/10/2012 11:10:14
+99,Songa Enabler,Kontrakt,Statoil,2016,8,,2023,8,,"$457,000",,8/28/2015 1:23:16,6/8/2012 8:55:53
+99,Songa Enabler,Avvik,Suspended,2016,12,,2017,3,,"$343,000",,,
+100,Statoil CAT B1,Avvik,Cancelled,2013,6,,2019,12,,,,7/31/2015 5:13:44,6/8/2012 8:55:53
+101,North Dragon,Avvik,Under construction,2012,2,,2017,1,,$0,,11/10/2015 2:35:41,6/8/2012 8:55:53
+104,Maersk Integrator,Avvik,Under construction,2012,5,,2015,5,,$0,,6/25/2015 23:32:13,6/8/2012 8:55:53
+104,Maersk Integrator,Kontrakt,Statoil,2015,6,,2019,6,,"$397,000",,6/25/2015 23:32:14,6/8/2012 8:55:53
+110,GSF Galaxy I,Kontrakt,Nexen,2012,6,,2013,8,,"$133,000",,6/21/2013 4:31:27,6/8/2012 8:55:53
+110,GSF Galaxy I,Kontrakt,Total,2013,9,,2017,4,,"$226,000",,8/12/2014 0:20:15,12/13/2013 3:30:19
+111,West Linus,Avvik,Under construction,2012,1,,2014,4,,$0,,3/7/2014 2:25:44,6/10/2012 10:42:17
+111,West Linus,Kontrakt,ConocoPhillips,2014,5,,2019,5,,"$344,000",,2/27/2015 1:55:15,6/8/2012 8:55:53
+111,West Linus,Avvik,ConocoPhillips,2019,5,,2021,4,,"$344,000",Option,2/27/2015 3:43:00,2/27/2015 1:55:23
+117,Askepott,Avvik,Under construction,2012,10,,2017,5,,$0,,6/21/2013 2:07:11,10/3/2012 23:04:03
+117,Askepott,Kontrakt,Oseberg,2017,6,,2024,2,,NA,,6/21/2013 2:48:18,6/21/2013 2:42:29
+118,Bollsta Dolphin,Avvik,Yard,2012,1,,2015,10,,$0,,3/10/2014 12:49:46,10/30/2012 1:19:53
+118,Bollsta Dolphin,Avvik,IDLE,2015,12,,2020,11,,$0,,3/7/2014 1:05:28,10/30/2012 1:20:39
+119,Maersk Invincible,Avvik,Under construction,2013,9,,2017,3,,$0,,3/7/2014 4:49:10,9/24/2013 23:41:21
+119,Maersk Invincible,Kontrakt,BP,2017,4,,2022,3,,"$444,000",,3/7/2014 4:49:03,9/24/2013 23:41:45
+120,Blackford Dolphin,Avvik,Yard,2013,10,,2014,5,,$0,,5/26/2014 3:51:04,12/19/2013 1:04:20
+120,Blackford Dolphin,Kontrakt,MPX,2014,6,,2014,7,,"$419,000",,5/26/2014 3:51:14,12/19/2013 0:39:58
+120,Blackford Dolphin,Kontrakt,Capricon,2014,8,,2014,10,,"$467,000",,5/26/2014 3:51:22,12/19/2013 0:40:48
+120,Blackford Dolphin,Kontrakt,Nexen,2014,12,,2015,8,,"$428,000",,8/5/2015 0:30:03,12/19/2013 0:42:11
+120,Blackford Dolphin,Kontrakt,Chevron,2015,9,,2017,1,,"$428,000",option 02/2017-12/2017,5/26/2014 3:52:13,12/19/2013 0:43:18
+121,Beacon Atlantic,Avvik,Under construction,2014,1,,2017,1,,$0,,1/15/2014 23:14:03,1/15/2014 23:13:30
+131,Ensco 120,Kontrakt,Nexen,2014,3,,2016,7,,"$230,000",,7/21/2015 4:49:43,5/28/2014 5:07:05
+131,Ensco 120,Avvik,Stacked,2016,8,,2020,1,,$0,,,
+132,Ensco 121,Kontrakt,Wintershall,2014,5,,2016,8,,"$230,000",,5/28/2014 5:08:44,5/28/2014 5:08:01
+132,Ensco 121,Kontrakt,Wintershall,2016,9,,2016,12,,"$90,000",,,
+132,Ensco 121,Avvik,IDLE,2017,1,,2020,1,,$0,,,
+133,Noble Sam Turner ,Kontrakt,Maersk Oil,2014,8,,2016,8,,"$215,000",,8/14/2014 23:31:27,8/14/2014 23:30:46
+133,Noble Sam Turner ,Avvik,IDLE,2016,9,,2020,1,,$0,,,
+134,Noble Regina Allen,Kontrakt,GDF Suez,2014,1,,2015,5,,"$233,000",,7/28/2015 2:58:56,7/28/2015 2:57:22
+134,Noble Regina Allen,Kontrakt,GDF Suez,2015,6,,2015,8,,"$155,000",,7/28/2015 2:59:41,7/28/2015 2:59:06
+134,Noble Regina Allen,Avvik,Ready stacked,2015,9,,2016,9,,$0,,9/11/2015 0:14:49,9/11/2015 0:14:30
+134,Noble Regina Allen,Kontrakt,NA,2016,10,,2017,4,,NA,,,
+135,Hercules Highlander,Avvik,Under construction,2013,1,,2016,7,,$0,,7/31/2015 5:06:04,7/29/2015 0:32:48
+135,Hercules Highlander,Kontrakt,Maersk Oil,2016,8,,2021,8,,"$225,000",,7/29/2015 0:31:11,7/29/2015 0:15:13
+136,Hercules Triumph,Avvik,Ready stacked,2015,6,,2019,12,,$0,,7/31/2015 5:13:32,7/29/2015 0:31:49
+151,Prospector 1,Kontrakt,Total,2014,10,,2016,9,,"$185,000",,8/31/2015 5:56:17,7/29/2015 0:16:36
+151,Prospector 1,Avvik,Yard,2016,10,,2016,11,,$0,,,
+151,Prospector 1,Avvik,IDLE,2016,12,,2020,1,,,,,
+137,Henry Goodrich,Avvik,Stacked,2015,6,,2016,4,,$0,,8/31/2015 5:54:37,7/29/2015 0:34:40
+137,Henry Goodrich,Kontrakt,Husky,2016,5,,2018,3,,"$275,000",,,
+150,Prospector 5,Kontrakt,Total,2014,12,,2017,11,,"$218,000",,8/31/2015 5:43:11,7/29/2015 0:18:24
+138,Ocean Valiant,Kontrakt,Premier Oil,2015,6,,2016,8,,"$197,000",,10/2/2015 5:14:43,7/29/2015 0:40:37
+138,Ocean Valiant,Kontrakt,Maersk Oil,2016,10,,2017,10,,NA,,,
+139,Ocean Patriot,Kontrakt,Shell,2014,10,,2017,9,,"$400,000",,7/29/2015 0:43:28,7/29/2015 0:42:20
+152,Ensco 122,Kontrakt,NAM,2016,1,,2017,1,,"$230,000",,,
+152,Ensco 122,Avvik,IDLE,2017,2,,2017,3,,$0,,,
+152,Ensco 122,Kontrakt ,Itacha,2017,4,,2017,4,,"$100,000",,,

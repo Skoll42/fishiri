@@ -1,0 +1,340 @@
+services:
+    fos_user.mailer.default:
+        class: Application\Gullkysten\FishiriBundle\Service\EmailDispatcher
+        arguments: [@service_container]
+
+    sonata.admin.owner:
+        class: Application\Gullkysten\FishiriBundle\Admin\OwnerAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.common.data, label: "Owners" }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\Owner
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.operator:
+        class: Application\Gullkysten\FishiriBundle\Admin\OperatorAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.common.data, label: "Operators" }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\Operator
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.dockedships.dockedships:
+        class: Application\Gullkysten\FishiriBundle\Admin\DockedShips\DockedShipsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.dockedships, label: "Docked Ships" }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\DockedShips\DockedShips
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.destination:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\DestinationAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Destination", show_in_dashboard: false }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\Destination
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.drillingwells:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\DrillingWellsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Drilling wells", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\DrillingWells
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.exporttechnology:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\ExportTechnologyAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Export technology", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\ExportTechnology
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.frameagreement:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\FrameAgreementAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Frame agreement", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\FrameAgreement
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.helicopter:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\HelicopterAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Helicopter", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\Helicopter
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.investments:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\InvestmentsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Investments", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\Investments
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.fieldDevelopment:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\FieldDevelopmentAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Main development", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\FieldDevelopment
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.npdid:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\NpdidAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "NPDID", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\Npdid
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.remainingreserves:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\RemainingReservesAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Remaining reserves", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\RemainingReserves
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.statistics:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\StatisticsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Statistics", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\Statistics
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.subseadevelopment:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\SubseaDevelopmentAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Subsea development", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\SubseaDevelopment
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.totalreservesestimate:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\TotalReservesEstimateAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Total reserves estimate", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\TotalReservesEstimate
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.feltdata.feltdata:
+        class: Application\Gullkysten\FishiriBundle\Admin\FeltData\FeltDataAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.feltdata, label: "Felt Data" }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\FeltData\FeltData
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.bopandbopcontroldata:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\BopAndBopControlDataAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Bop and bop control data", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\BopAndBopControlData
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.contractinformation:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\ContractInformationAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Contract information", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\ContractInformation
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.drillingequipment:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\DrillingEquipmentAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Drilling equipment", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\DrillingEquipment
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.landingfacilities:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\LandingFacilitiesAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Landing facilities", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\LandingFacilities
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.liftingequipment:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\LiftingEquipmentAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Lifting equipment", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\LiftingEquipment
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.mudsystems:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\MudSystemsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Mud systems", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\MudSystems
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.riginformation:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\RigInformationAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Rig information", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\RigInformation
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.rigratings:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\RigRatingsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Rig ratings", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\RigRatings
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.riserandrisertensionerdata:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\RiserAndRiserTensionerDataAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Riser and riser tensioner data", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\RiserAndRiserTensionerData
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.vesselparticulars:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\VesselParticularsAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Vessel particulars", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\VesselParticulars
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.vesselparticularscontinued:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\VesselParticularsContinuedAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Vessel particulars continued", show_in_dashboard: false  }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\VesselParticularsContinued
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    sonata.admin.riggdata.riggdata:
+        class: Application\Gullkysten\FishiriBundle\Admin\RiggData\RiggDataAdmin
+        tags:
+            - { name: sonata.admin, manager_type: doctrine_mongodb, group: admin.riggdata, label: "Rigg Data" }
+        arguments:
+            - ~
+            - Application\Gullkysten\FishiriBundle\Document\RiggData\RiggData
+            - ~
+        calls:
+            - [ setTranslationDomain, [ApplicationSonataAdminBundle]]
+
+    fishiri_guzzle.client:
+        class: Application\Gullkysten\FishiriBundle\Service\CacheInvalidationGuzzleClient
+        arguments: ['%fishiri.email.host%', '%fishiri.cache_invalidation_auth_key%']
+
+    fishiriapi.listener.dockedships:
+        class: Application\Gullkysten\FishiriBundle\EventListener\DockedShipsListener
+        arguments: [@fos_http_cache.proxy_client.varnish, @router]
+        tags:
+          - { name: doctrine_mongodb.odm.event_listener, event: postUpdate }
+          - { name: doctrine_mongodb.odm.event_listener, event: postPersist }
+          - { name: doctrine_mongodb.odm.event_listener, event: postRemove }
+
+    fishiriapi.listener.riggdata:
+        class: Application\Gullkysten\FishiriBundle\EventListener\RiggDataListener
+        arguments: [@fos_http_cache.proxy_client.varnish, @router]
+        tags:
+          - { name: doctrine_mongodb.odm.event_listener, event: postUpdate }
+          - { name: doctrine_mongodb.odm.event_listener, event: postPersist }
+          - { name: doctrine_mongodb.odm.event_listener, event: postRemove }
+
+    fishiriapi.listener.feltdata:
+        class: Application\Gullkysten\FishiriBundle\EventListener\FeltDataListener
+        arguments: [@fos_http_cache.proxy_client.varnish, @router]
+        tags:
+          - { name: doctrine_mongodb.odm.event_listener, event: postUpdate }
+          - { name: doctrine_mongodb.odm.event_listener, event: postPersist }
+          - { name: doctrine_mongodb.odm.event_listener, event: postRemove }

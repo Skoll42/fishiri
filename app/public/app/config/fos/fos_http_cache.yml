@@ -1,0 +1,10 @@
+fos_http_cache:
+    cache_manager:
+        enabled: true
+    proxy_client:
+        varnish:
+            guzzle_client: fishiri_guzzle.client
+            servers: "%fishiri.email.host%"
+            base_url: "%fishiri.email.host%"
+    invalidation:
+        enabled: true
